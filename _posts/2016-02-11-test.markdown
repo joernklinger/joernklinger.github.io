@@ -9,4 +9,4 @@ test
 
 Check out the [Homepage][homepage] for XX.
 
-[homepage]: https://www.joernklinger.com
+[homepage]: http://www.joernklinger.com
